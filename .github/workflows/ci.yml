@@ -9,7 +9,7 @@ on:
 
 jobs:
   test:
-    name: GHS Test
+    name: GHS Test1
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
