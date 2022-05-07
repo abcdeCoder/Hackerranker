@@ -13,6 +13,6 @@ exclude =
     migrations
 max-line-length = 130
 
-# Specify a list of codes to ignore.
+# Specify of a list of codes to ignore.
 ignore =
     E203, F632, E711, E501, E722, E741, W503, F541
