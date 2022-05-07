@@ -27,7 +27,7 @@ Contribution can be anything like (but not limited to) improving documentation, 
 
 ### Development
 
-1. Fork the repository and clone it locally.
+1. Fork the repository and clone it to locally.
 2. Please create a separate branch for each issue that you're working on. Do not make changes to the default branch (e.g. master) of your fork.
 3. Make changes to the code and
 4. Install the cli [via source code](https://github.com/interviewstreet/ghs#using-source-code) and check/confirm your changes.
